@@ -1,2 +1,2 @@
-# mejrissi
-this is my work as an amature student
+# GDSC
+this is my work as GDSC isima web manager
