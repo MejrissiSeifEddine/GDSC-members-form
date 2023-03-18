@@ -1,0 +1,63 @@
+body{
+    background-image: url(seif.jpg);
+}
+form {
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+    border: 3.2px solid black;
+    border-radius: 25px;
+    font-family: 'Poppins', sans-serif;
+}
+
+label {
+    display: block;
+    margin-bottom: 0.001px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+input[type="text"],
+input[type="email"] {
+    width: 65%;
+    padding: 12px 20px;
+    margin: 1px 0;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 1px;
+}
+
+input[type="submit"] {
+    width: 30%;
+    background-color: #4CAF50;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #3d3f3d00;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    font-size: 45px;
+}
+p{
+    display: block;
+    margin-bottom: 5px;
+    font-size: 18px;
+    font-weight: bold;
+}
+img {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, 0);
+    width: 160px;
+    height: 110px;
+  }
